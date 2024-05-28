@@ -1,0 +1,2 @@
+- https://github.com/prometheus-community/ansible/tree/main/roles/node_exporter
+- https://github.com/prometheus/node_exporter
